@@ -13,7 +13,7 @@ async def send_message(message, user_message, is_private):
 
 
 def run_discord_bot():
-    TOKEN = 'YOUR_KEY'
+    TOKEN = 'MTEwNTE5NTA2MTIxNTUxNDY3NA.Gp-iyr.ScP9kDrvzIQkQSG46qKYeL07jCxMVk1kNtV8Ag'
     client = discord.Client()
 
     @client.event
